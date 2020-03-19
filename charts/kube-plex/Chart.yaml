@@ -11,4 +11,4 @@ sources:
   - https://github.com/munnerz/kube-plex
   - https://hub.docker.com/r/plexinc/pms-docker/
 maintainers:
-  - name: munnerz
+  - name: parrajustin
